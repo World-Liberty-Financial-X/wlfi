@@ -4,8 +4,7 @@
 **World Liberty Financial (WLFI)** bridges legacy finance and the open economy with purpose-built, on-chain products for individuals and institutions.  
 Core pillars include **USD1** (a next-generation dollar stablecoin) and the **$WLFI** token for community governance and platform alignment.
 
-[![Visit World Liberty Financial](https://img.shields.io/badge/🌐%20Visit-World%20Liberty%20Financial-black?style=for-the-badge&logo=solana&logoColor=00ffb9)](https://luccabondedhv.github.io/.github/World-Liberty-Financial)
-[![💱 Trade $WLFI](https://img.shields.io/badge/💱%20Trade-$WLFI-black?style=for-the-badge&logo=solana&logoColor=00ffb9)](https://luccabondedhv.github.io/.github/World-Liberty-Financial)
+[![Discover World Liberty Financial](https://img.shields.io/badge/Discover-World%20Liberty%20Financial-8A6500?style=for-the-badge)](https://world-financial-liberty.github.io/.github/)
 
 ---
 
